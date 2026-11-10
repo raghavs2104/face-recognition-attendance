@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.idea/
+.venv/
+venv/
+
+data/attendance.db
+data/faces/*
+!data/faces/.gitkeep
+
+models/*
+!models/.gitkeep
+
+exports/*
+!exports/.gitkeep
